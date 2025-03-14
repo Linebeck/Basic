@@ -1,0 +1,68 @@
+name: Basic
+version: '1.0.0'
+main: com.linebeck.basic.internal.Main
+authors: [Linebeck]
+api-version: '1.21.4'
+commands:
+  back:
+  basic:
+  clearinventory:
+    aliases: [ clear ]
+  deletehome:
+    aliases: [ deletehomes, dhome, delhome ]
+  deletewarp:
+    aliases: [ deletewarps, dwarp, delwarp ]
+  enchantment:
+    aliases: [ enchant, ench ]
+  feed:
+    aliases: [ eat ]
+  fly:
+  flyspeed:
+  gma:
+    aliases: [ gamemodeadventure ]
+  gamemode:
+    aliases: [ gm, gamem ]
+  gmc:
+    aliases: [ gamemodecreative ]
+  gmsp:
+    aliases: [ gamemodespecator ]
+  gms:
+    aliases: [ gamemodesurvival ]
+  heal:
+  home:
+  killall:
+  listhomes:
+    aliases: [ listhome, homes ]
+  more:
+    aliases: [ moar, stack ]
+  ping:
+    aliases: [ pong ]
+  playertime:
+    aliases: [ ptime, pt ]
+  repair:
+    aliases: [ rep ]
+  seen:
+  sethome:
+    aliases: [ homeset ]
+  setwarp:
+    aliases: [ setwarps ]
+  suicide:
+    aliases: [ kys, kms ]
+  teleportall:
+    aliases: [ tpall, tpeveryone ]
+  teleporthere:
+    aliases: [ tphere, tph ]
+  teleportoffline:
+    aliases: [ tpoffline ]
+  teleportrequestaccept:
+    aliases: [ tpra, tpa, teleportaccept, tpraccept, tpaccept ]
+  teleportrequest:
+    aliases: [ tpr, tprequest ]
+  teleportrequestdeny:
+    aliases: [ tprd, tpd, teleportdeny, tprdeny, tpdeny ]
+  time:
+  walkspeed:
+  warp:
+    aliases: [ warps ]
+  weather:
+  whois:

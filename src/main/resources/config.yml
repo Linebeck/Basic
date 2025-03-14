@@ -1,0 +1,16 @@
+# Basic
+# Created by Linebeck
+# © 2016 - 2025. All Rights Reserved.
+
+### Colors ###
+Main-HexColor: "#87CEEB"
+Sub-HexColor: "#acf49c"
+
+### Join & Leave Message ###
+Join-Message: false
+Leave-Message: false
+
+#Teleportation
+
+Teleport-Cooldown: 5
+Warp-Cooldown: 5
