@@ -43,7 +43,7 @@ public class TeleportRequestAcceptCommand extends BaseCommand {
 	public TeleportRequestAcceptCommand() {
 		super(
 				"teleportrequestaccept",
-				"basic.TeleportrequestAccept",
+				"basic.teleportrequestaccept",
 				false
 		);
 	}

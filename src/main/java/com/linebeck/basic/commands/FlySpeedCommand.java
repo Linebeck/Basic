@@ -34,7 +34,7 @@ public class FlySpeedCommand extends BaseCommand {
 	public FlySpeedCommand() {
 		super(
 				"flyspeed",
-				"Basic.flyspeed",
+				"basic.flyspeed",
 				false
 		);
 	}
